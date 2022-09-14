@@ -4,7 +4,7 @@ del {color: blue;}
 a:link{color: red;}
 a:visited{color: black;}
 a:hover{text-decoration: none; text-transform: uppercase; color: blueviolet;}
-li:hover{text-shadow: 10px; text-decoration: none; text-transform: uppercase; text-align: right ;}
+li:hover{text-shadow: 10px; text-decoration: none; text-transform: uppercase; text-align: right ; color: goldenrod;}
 img {border: 10px solid red; border-color: black; width: 80px;}
 table{width: 100%;}
 table td{text-align: center; border: 1px solid #ddd ;}
