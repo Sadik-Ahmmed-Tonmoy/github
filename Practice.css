@@ -1,0 +1,21 @@
+p {color: orange;}
+ul {color: gray;}
+del {color: blue;}
+a:link{color: red;}
+a:visited{color: black;}
+a:hover{text-decoration: none; text-transform: uppercase; color: blueviolet;}
+li:hover{text-shadow: 10px; text-decoration: none; text-transform: uppercase; text-align: right ;}
+img {border: 10px solid red; border-color: black; width: 80px;}
+table{width: 100%;}
+table td{text-align: center; border: 1px solid #ddd ;}
+table th{color: orange;background-color: black; padding: 2%;}
+ul{list-style-type: lower-greek;}
+ol{list-style-type: lower-roman;}
+h3{border: 1px solid red;}
+span{border: 1px solid blue;}
+.red{background-color: red; font-size: 50px;}
+.green{background-color: green;font-size: 80px;}
+.word_mood{color: red; border: none;}
+.div_mood:hover{text-transform: uppercase; border: 20px solid indigo; padding: 10px 50px 5px 50px; border-radius: 150px; margin-right: 45px;}
+p{color: blueviolet;}
+div,section{display:inline-block ;}
